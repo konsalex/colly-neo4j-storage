@@ -1,5 +1,9 @@
 # colly-neo4j-storage
 
+[![GitHub Action - Test Go Package](https://github.com/konsalex/colly-neo4j-storage/actions/workflows/workflow.yml/badge.svg)](https://github.com/konsalex/colly-neo4j-storage/actions/workflows/workflow.yml)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/konsalex/colly-neo4j-storage)
+[![Go Report Card](https://goreportcard.com/badge/github.com/konsalex/colly-neo4j-storage)](https://goreportcard.com/report/github.com/konsalex/colly-neo4j-storage)
+
 A Neo4j storage back end for the Colly web crawling/scraping framework https://go-colly.org
 
 Example Usage:
