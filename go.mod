@@ -1,4 +1,4 @@
-module neocolly
+module github.com/konsalex/colly-neo4j-storage
 
 go 1.16
 
