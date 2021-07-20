@@ -15,7 +15,7 @@ import (
 	"fmt"
 
 	"github.com/gocolly/colly"
-	"github.com/konsalex/colly-neo4j-storage/colly/neo4j"
+	"github.com/konsalex/colly-neo4j-storage/colly"
 )
 
 func main() {
